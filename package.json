@@ -1,0 +1,16 @@
+{
+  "name": "poc-btc-puzzle-solver",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "ed3ath",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "dependencies": {
+    "bitcoinjs-lib": "^6.1.3",
+    "lodash": "^4.17.21",
+    "secp256k1": "^5.0.0"
+  }
+}
